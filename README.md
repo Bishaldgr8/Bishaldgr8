@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishal</h1>
-<h3 align="center">Information Technology Undergraduate | Data Science & 3D Modelling Enthusiast | Web Developer</h3>
+<h3 align="center">Information Technology Undergraduate | AI/ML Developer | Data Science & 3D Modelling Enthusiast | Web Developer</h3>
 <h4 align="center">Passionate about building intelligent systems, solving complex problems, and leveraging data-driven insights.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bishaldgr8&label=Profile%20views&color=0e75b6&style=flat" alt="Bishaldgr8" /> </p>
