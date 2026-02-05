@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me  
 
 - 🚀 Currently working on **Photogrammetry and 3D Modelling** projects using tools like **Reality Capture, Unreal Engine 5, and Blender**.  
-- 🌐 Developed innovative platforms like **Len-Den (Delivery System)** and **Smart-Challan (Traffic Violation Management)**.  
+- 🌐 Developed innovative platforms like **The Secret Shop (E-Commerce Platform)** and **Smart-Challan (Traffic Violation Management)**.  
 - 🤖 Exploring the intersection of **AI, Web Development, and 3D Systems** to create impactful, scalable solutions.  
 - 🧠 Strong foundation in **OOP, DBMS, OS, CN, and Mathematics**.  
 - 💡 Enthusiastic about integrating **Machine Learning** and **Computer Vision** with creative workflows in **3D reconstruction and simulation**.  
